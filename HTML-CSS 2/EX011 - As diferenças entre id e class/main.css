@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(17, 109, 109);
+}
+
+h1{
+    text-align: justify;
+    color: white;
+}
+
+h1#principal{
+    background-color: rgba(255, 255, 255, 0.384);
+    text-align: center;
+}
+
+h2 {
+    text-align: justify;
+    color: antiquewhite;
+}
+
+p {
+    color: white;
+}
+
+.leve{
+    background-color: green;
+}
+
+.moderado{
+    background-color: yellow;
+}
+
+.intenso{
+    background-color: red;
+}

@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+h1 {
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(https://i.pinimg.com/736x/5a/79/02/5a7902ddfb16049b621f1a5c341b1320.jpg);
+    border-image-repeat: repeat;
+    border-image-slice: 27;
+}
